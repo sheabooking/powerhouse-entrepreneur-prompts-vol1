@@ -1,6 +1,6 @@
 # Powerhouse Entrepreneur Prompts: Vol. 1 — The Foundation
 
-**A free Claude skill by Dr. Shea Johnson | AI Business Coach**
+**A free Claude skill by Shea Johnson | AI Business Coach**
 🌐 [www.mssheajohnson.com](https://www.mssheajohnson.com)
 
 ---
@@ -64,7 +64,7 @@ Once installed, just start a conversation. Say anything — "I'm ready," "let's 
 
 ## About the Creator
 
-This skill was created by **Dr. Shea Johnson** — AI Business Coach, PhD in Conscious Business Ethics, and founder of Shea Johnson LLC. Her work focuses on how personal values and inner alignment shape business decisions.
+This skill was created by **Shea Johnson** — AI Business Coach and founder of Shea Johnson LLC. Her work focuses on how personal values and inner alignment shape business decisions.
 
 🌐 [www.mssheajohnson.com](https://www.mssheajohnson.com)
 
