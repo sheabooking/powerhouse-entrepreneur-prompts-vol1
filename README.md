@@ -39,13 +39,11 @@ By the end, Claude delivers **3 personalized coaching documents** and **2 workin
 
 ## Install This Skill
 
+**Option 1 — Download and install:**
+1. Download `powerhouse-business-foundations.plugin` from this repo
+2. Run:
 ```bash
-claude plugin install https://github.com/sheabooking/powerhouse-entrepreneur-prompts-vol1
-```
-
-Or download the `.skill` file and install manually:
-```bash
-claude plugin install /path/to/powerhouse-business-foundations.skill
+claude plugin install /path/to/powerhouse-business-foundations.plugin
 ```
 
 Once installed, just start a conversation. Say anything — "I'm ready," "let's go," "I need clarity" — and the coaching journey begins.
