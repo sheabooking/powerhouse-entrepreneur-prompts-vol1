@@ -40,10 +40,10 @@ By the end, Claude delivers **3 personalized coaching documents** and **2 workin
 ## Install This Skill
 
 **Option 1 — Download and install:**
-1. Download `powerhouse-business-foundations.plugin` from this repo
+1. Download `powerhouse-clarity-coach.plugin` from this repo
 2. Run:
 ```bash
-claude plugin install /path/to/powerhouse-business-foundations.plugin
+claude plugin install /path/to/powerhouse-clarity-coach.plugin
 ```
 
 Once installed, just start a conversation. Say anything — "I'm ready," "let's go," "I need clarity" — and the coaching journey begins.

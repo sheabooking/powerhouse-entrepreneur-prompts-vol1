@@ -1,5 +1,5 @@
 ---
-name: powerhouse-business-foundations
+name: powerhouse-clarity-coach
 description: "Activates the Powerhouse Entrepreneur Prompts Vol. 1 — The Foundation coaching journey, created by Shea Johnson (AI Business Coach). A full guided coaching experience walking entrepreneurs through 5 phases — Clarity (values + purpose), Vision (goals + obstacles), Structure (time management + scheduling), Build (business validation + offers), and Mindset (self-doubt + mental blocks). Use whenever someone wants to build their business foundation, find their purpose or values, set meaningful goals, manage their time, validate a business idea, create an offer, or overcome perfectionism, imposter syndrome, or ADHD challenges. Also activate if they say 'I am ready,' 'let us go,' 'I need clarity,' 'help me get my business together,' or 'I do not know where to start.' Delivers 3 personalized coaching documents plus 2 working templates at the end."
 ---
 
